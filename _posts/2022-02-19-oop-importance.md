@@ -14,13 +14,13 @@ Another interesting story that was shared is coming from a well-known company in
 
 [According to SAP][3], being object-oriented means that the focus of the development is on objects that represent abstracts or concrete things in the real world, defined by their characteristics and properties. Each object is encapsulated, making its information hidden from another object and reusable.
 
-One thing that should always be remembered from this course is that object can be anything. It's not only about classes in programming language, even a database can be an object in object-oriented. Just like a class having one or more relationship with other classes, a table in a database also possible to have a relationship with another table. Although, the definitions and the type of relationships are _different_ in Class diagram and ERD.
+One thing that should always be remembered from this course is that object can be anything. It's not only about classes in programming language, even a database can be an object in object-oriented. Just like a class having one or more relationship with other classes, a table in a database also possible to have a relationship with another table. Although, the definitions and the type of relationships are _different_ in Class diagram and ERD. 
+
+Eventually, it's all about building a system, but the approach is by breaking it down into object, microservices, etc.
 
 In object-oriented system design, one of the advantages is to make it easier to troubleshoot problems. It means that being object-oriented helps us in making sure that the system will behave according to the expectations.
 
 In order to do that, the trick is to test its logic in different ways: **documentation**, **source code**, and **unit test**.
-
-To summarize, it's like building a human-like figure out of Lego. First, we create the left part of the leg. Then we make sure that it is working properly. And then we go with building the right part of the leg, we can reuse the design of the left leg. But since we want the right part to have a different pose, we then create the improvement and test it again. The leg and the body part is exposed only to things they are required or supposed to, like joints between stomach and thigh, which makes the joints of the foot is hidden from the body.
 
 From this course, it gave me several new knowledge that can be used in my day to day activity at work. I have never done a logic test in my documentation before, and I've been doing an improper _unit test_ all this time. It turns out, all those three are strongly related to each other, despite they are totally different.
 
