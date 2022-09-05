@@ -5,7 +5,7 @@ author: yusuf
 categories: sepm
 image: assets/images/2790.webp
 published: True
-date: 2022-09-04
+date: 2022-09-05
 ---
 
 McCall’s model is factored through the perspective of three sides: product operation, product revision, and product transition factors. It supports 11 factors out of 28 known factors (Boukouchi, 2013). It was the first model introduced. On the other hand, the Deutsh and Willis model is based on McCall’s model.
