@@ -20,7 +20,7 @@ Data can also be used to measure the quality of the software. Guardian, for exam
 
 Another example is when designing the user experience part, UX analytics can be useful to guide us to create a more accurate design. Through an iterative process, UX analysis will help us in listing down all possible improvements and enhancements that when applied will enhance the user experience (Alviri, n.d.).
 
-In my conclusion, there are various frameworks that we can use to properly develop a software. TOGAF is an example framework that we can use, it considers all aspects of the business, operations, people, etc. But in my opinion, it’ll be not that effective if we are not data-driven, all based only on assumptions. Whether it’s quantitative or qualitative data, evidence-based software engineering project management will correctly deliver the best software that will benefit the business as well as the user.
+In my conclusion, there are various frameworks that we can use to properly manage a project. TOGAF is an example framework that we can use, it considers all aspects of the business, operations, people, etc. But in my opinion, it’ll be not that effective if we are not data-driven, all based only on assumptions. Whether it’s quantitative or qualitative data, evidence-based software engineering project management will correctly deliver the best software that will benefit the business as well as the user.
 
 ### References
 
