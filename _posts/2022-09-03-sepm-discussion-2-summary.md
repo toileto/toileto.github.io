@@ -5,7 +5,7 @@ author: yusuf
 categories: sepm
 image: assets/images/2790.webp
 published: True
-date: 2022-09-04
+date: 2022-09-03
 ---
 
 The Components of User Experience proposed (Thüring & Mahlke, 2007) doesn’t cover all aspects that affect user experience. In my opinion, there is an alternative framework that we can use, and their components are Business, Technology, and Design (Kantamneni, 2022). He argues that’s because today, 8 out of 10 of the most valuable companies are technology companies. To bring this impactful user experience design, it should be deliberately designed from all perspective of an organization.

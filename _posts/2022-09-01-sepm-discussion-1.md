@@ -5,7 +5,7 @@ author: yusuf
 categories: sepm
 image: assets/images/2790.webp
 published: True
-date: 2022-09-03
+date: 2022-09-01
 ---
 
 **Question 1: What do you believe are the three most common reasons for project failure?**
