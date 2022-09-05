@@ -5,7 +5,7 @@ author: yusuf
 categories: sepm
 image: assets/images/2790.webp
 published: True
-date: 2022-09-04
+date: 2022-09-02
 ---
 
 As we have shared our opinion about the reasons why a project failed, I can see that there is no exact answer to that question. From this discussion, I tried to dig more about it. I found that even between Forbes (Forbes Technology Council, 2020) and Entrepreneur (Smale, 2019), they even are listing several reasons that are unique only to them – not listed on the other one.

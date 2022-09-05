@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "SEPM Course Reflections"
+title: "SEPM Course Reflections"
 author: yusuf
 categories: sepm
 image: assets/images/2790.webp
 published: True
-date: 2022-09-06
+date: 2022-09-05
 ---
 
 Project management in software development is not only about making sure that the project is not failing. Although it is one of the concerns, project management is also about how to deliver it with quality – how to achieve the best quality possible, as well as to make sure it’s maintainable after it is delivered. It is a wide topic in software development.
