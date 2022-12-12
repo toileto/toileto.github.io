@@ -3,9 +3,9 @@ layout: post
 title: "Collaborative Discussion 2: Abi’s Case of Whizzz"
 author: yusuf
 categories: rpmm
-image: assets/images/featured_image/medieval paintings of a researcher-1670861243670.jfif
+image: assets/images/featured_image/a_researcher.jfif
 published: True
-date: 2022-10-11
+date: 2022-11-11
 ---
 
 **Clearly, if Abi changed data values in this study he would be acting unethically. But is it any more ethical for him to suggest analysing correct data in a way that supports two or more different conclusions?**
